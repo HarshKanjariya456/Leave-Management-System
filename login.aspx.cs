@@ -32,7 +32,7 @@ namespace LAB_5
             string user_id = txtUserId.Text.Trim();
             string password = txtPassword.Text.Trim();
 
-            if (user_id == "92400120672" && password == "user@123")
+            if (user_id == "92400120494" && password == "user@123")
             {
                 Session["User_ID"] = user_id;
 

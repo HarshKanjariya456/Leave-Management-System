@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HARSH\\source\\repos\\Leave_Appliccation_Login\\Leave_Appliccation_Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B875577-D79D-4DC8-A9BB-1E440ACB815D}|Leave_Appliccation_Login.csproj|C:\\Users\\HARSH\\source\\repos\\Leave_Appliccation_Login\\Leave_Appliccation_Login\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B875577-D79D-4DC8-A9BB-1E440ACB815D}|Leave_Appliccation_Login.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B875577-D79D-4DC8-A9BB-1E440ACB815D}|Leave_Appliccation_Login.csproj|C:\\Users\\HARSH\\source\\repos\\Leave_Appliccation_Login\\Leave_Appliccation_Login\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3B875577-D79D-4DC8-A9BB-1E440ACB815D}|Leave_Appliccation_Login.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B875577-D79D-4DC8-A9BB-1E440ACB815D}|Leave_Appliccation_Login.csproj|c:\\users\\harsh\\source\\repos\\leave_appliccation_login\\leave_appliccation_login\\leave.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B875577-D79D-4DC8-A9BB-1E440ACB815D}|Leave_Appliccation_Login.csproj|solutionrelative:leave.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B875577-D79D-4DC8-A9BB-1E440ACB815D}|Leave_Appliccation_Login.csproj|C:\\Users\\HARSH\\source\\repos\\Leave_Appliccation_Login\\Leave_Appliccation_Login\\leave.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3B875577-D79D-4DC8-A9BB-1E440ACB815D}|Leave_Appliccation_Login.csproj|solutionrelative:leave.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B875577-D79D-4DC8-A9BB-1E440ACB815D}|Leave_Appliccation_Login.csproj|C:\\Users\\HARSH\\source\\repos\\Leave_Appliccation_Login\\Leave_Appliccation_Login\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B875577-D79D-4DC8-A9BB-1E440ACB815D}|Leave_Appliccation_Login.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B875577-D79D-4DC8-A9BB-1E440ACB815D}|Leave_Appliccation_Login.csproj|C:\\Users\\HARSH\\source\\repos\\Leave_Appliccation_Login\\Leave_Appliccation_Login\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3B875577-D79D-4DC8-A9BB-1E440ACB815D}|Leave_Appliccation_Login.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "leave.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\HARSH\\source\\repos\\Leave_Appliccation_Login\\Leave_Appliccation_Login\\leave.aspx.cs",
+              "RelativeDocumentMoniker": "leave.aspx.cs",
+              "ToolTip": "C:\\Users\\HARSH\\source\\repos\\Leave_Appliccation_Login\\Leave_Appliccation_Login\\leave.aspx.cs",
+              "RelativeToolTip": "leave.aspx.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T13:02:59.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "leave.aspx",
+              "DocumentMoniker": "C:\\Users\\HARSH\\source\\repos\\Leave_Appliccation_Login\\Leave_Appliccation_Login\\leave.aspx",
+              "RelativeDocumentMoniker": "leave.aspx",
+              "ToolTip": "C:\\Users\\HARSH\\source\\repos\\Leave_Appliccation_Login\\Leave_Appliccation_Login\\leave.aspx",
+              "RelativeToolTip": "leave.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2026-09-12T13:03:00.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\HARSH\\source\\repos\\Leave_Appliccation_Login\\Leave_Appliccation_Login\\default.aspx.cs",
+              "RelativeDocumentMoniker": "default.aspx.cs",
+              "ToolTip": "C:\\Users\\HARSH\\source\\repos\\Leave_Appliccation_Login\\Leave_Appliccation_Login\\default.aspx.cs",
+              "RelativeToolTip": "default.aspx.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-09-12T13:03:00.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "default.aspx",
+              "DocumentMoniker": "C:\\Users\\HARSH\\source\\repos\\Leave_Appliccation_Login\\Leave_Appliccation_Login\\default.aspx",
+              "RelativeDocumentMoniker": "default.aspx",
+              "ToolTip": "C:\\Users\\HARSH\\source\\repos\\Leave_Appliccation_Login\\Leave_Appliccation_Login\\default.aspx",
+              "RelativeToolTip": "default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2026-09-12T13:03:00.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\HARSH\\source\\repos\\Leave_Appliccation_Login\\Leave_Appliccation_Login\\login.aspx.cs",
+              "RelativeDocumentMoniker": "login.aspx.cs",
+              "ToolTip": "C:\\Users\\HARSH\\source\\repos\\Leave_Appliccation_Login\\Leave_Appliccation_Login\\login.aspx.cs",
+              "RelativeToolTip": "login.aspx.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T13:03:00.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\HARSH\\source\\repos\\Leave_Appliccation_Login\\Leave_Appliccation_Login\\login.aspx",
+              "RelativeDocumentMoniker": "login.aspx",
+              "ToolTip": "C:\\Users\\HARSH\\source\\repos\\Leave_Appliccation_Login\\Leave_Appliccation_Login\\login.aspx",
+              "RelativeToolTip": "login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-09-12T13:03:00.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
